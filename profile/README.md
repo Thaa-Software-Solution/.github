@@ -52,20 +52,3 @@ Every codebase under the **Thaa Software Solution** organization complies with s
 3.  **Scalable Data Modeling:** Database systems built on strict normalization, preventing redundancy while executing rapid, complex analytic queries.
 
 ---
-
-## 🚀 Getting Started
-
-To explore or integrate one of our product baselines locally, clone the target repository and install its dependencies:
-
-```bash
-# Clone the core mobile commerce solution
-git clone [https://github.com/Thaa-Software-Solution/gift-shop-app.git](https://github.com/Thaa-Software-Solution/gift-shop-app.git)
-
-# Navigate to the project directory
-cd gift-shop-app
-
-# Fetch application packages
-flutter pub get
-
-# Run the application in development mode
-flutter run
